@@ -1,5 +1,5 @@
 # Rodsuwan_Final_Project_Spring_2023
-This is the file for the BISC 450C final project portfolio (enjoy)!
+This is the file for the BISC 450C final project portfolio. I have been interested in Python coding for a while now, but always found the task to be daunting and out of my reach with my major (Biology). I did not know there could be coding for things like DNA, RNA, Proteins, or heck even patient data analysis. I want to explore more into this because with this course it made coding a lot more accessible and easy to understand!
 
 
 ## Jupyter Notebooks Part 1
