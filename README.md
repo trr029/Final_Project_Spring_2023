@@ -1766,7 +1766,7 @@ else:
 
 
 
-## Creating Funstions Part 1
+## Creating Functions Part 1
 
 ```python
 fahrenheit_val = 99
